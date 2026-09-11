@@ -3,7 +3,7 @@ import './globals.css';
 
 export const metadata: Metadata = {
   title: '唐山赫启科技有限公司｜工厂自动化与焊接装备',
-  description: '赫启科技提供工厂自动化整体方案、焊接装备、工装制造与项目技术服务。',
+  description: '赫启科技提供工厂自动化整体方案、焊接装备、工装制造与项目技术服务。', icons: { icon: '/heqi-mark.png' },
 };
 
 export default function RootLayout({
